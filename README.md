@@ -1,5 +1,6 @@
 ### Hi there 👋
  -🔭 I’m currently working on developping integration apis to different TPV for multinational enterprise.
+ 
  -🌱 I’m currently learning more of new minimal api approach in .net 6
 <!--
 **devjuanca/devjuanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
